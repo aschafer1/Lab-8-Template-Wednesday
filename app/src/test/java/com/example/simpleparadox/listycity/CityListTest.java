@@ -19,7 +19,7 @@ class CityListTest {
 
     @Test
     void testAddNumbers() {
-        assertEquals(4,2+2);
+        assertEquals(5,2+2);
     }
     @Test
     void testAdd() {
